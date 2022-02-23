@@ -6,10 +6,10 @@
 
 
 Запуск на TV приставки: https://youtu.be/-4sQv0wLtrU <br>
-[![](http://img.youtube.com/vi/QrpkW_bTKHI/0.jpg)](https://youtu.be/-4sQv0wLtrU "")
+[![](http://img.youtube.com/vi/-4sQv0wLtrU/0.jpg)](https://youtu.be/-4sQv0wLtrU "")
 
 Запуск на HUAWEI телефоне: https://youtu.be/lI21Y_gO5IU <br>
-[![](http://img.youtube.com/vi/QrpkW_bTKHI/0.jpg)](https://youtu.be/lI21Y_gO5IU "")
+[![](http://img.youtube.com/vi/lI21Y_gO5IU/0.jpg)](https://youtu.be/lI21Y_gO5IU "")
 
 
 build.gradle:
